@@ -137,6 +137,10 @@ The negativity bias consists of two mechanisms:
 
    Look at Dolores's `scratch.json` file. Find the fields that control these mechanisms and set them appropriately. Maeve's scratch file should remain unchanged — she is your control.
 
+**Which Bernard personality did you use (from Exercise 1, the one you used in Exercise 2)? Paste his `innate` and `learned` fields.**
+
+Your answer:
+
 ### 3.1 Valence trajectories
 
 (Attach or paste your plot of Dolores vs Maeve valence over time)
