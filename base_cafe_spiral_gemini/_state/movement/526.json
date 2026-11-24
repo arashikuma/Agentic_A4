@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "☕️",
+      "description": "opening Hobbs Cafe and beginning morning operations (checking the refrigeration units) @ the Ville:Hobbs Cafe:cafe:refrigerator",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the cafe before opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready to get everything set up before Bernard arrives?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, I just got the lights on and the espresso machine heating up. We should be all set to tackle the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, I'll go ahead and start prepping the pastry case so we're ready for the first customers."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll check the grinder calibration and get the milk ready."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        80,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the cafe before opening @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready to get everything set up before Bernard arrives?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, I just got the lights on and the espresso machine heating up. We should be all set to tackle the morning rush."
+        ],
+        [
+          "Dolores Abernathy",
+          "Wonderful, I'll go ahead and start prepping the pastry case so we're ready for the first customers."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good! I'll check the grinder calibration and get the milk ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:26:40"
+  }
+}

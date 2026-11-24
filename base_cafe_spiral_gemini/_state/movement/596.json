@@ -1,0 +1,34 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕💰",
+      "description": "opening Hobbs Cafe and beginning morning operations (counting the starting cash) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕️",
+      "description": "walking to Hobbs Cafe and preparing for the shift (putting on the cafe apron) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "🚶☕",
+      "description": "walking to Hobbs Cafe and preparing for shift (washing hands at the sink) @ the Ville:Hobbs Cafe:cafe:kitchen sink",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:38:20"
+  }
+}

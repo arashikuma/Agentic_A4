@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the coffee shop for the morning shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm ready to help get everything set up for the morning shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Excellent timing. Let's get the espresso machine warmed up and prep the counter for our morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Right on it, Bernard. I'll get the grinder calibrated and check the pastry case next."
+        ],
+        [
+          "Bernard Lowe",
+          "Sounds like a plan. Let me know if you need any help with the calibration before we open the doors."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. Everything is looking good so far, I'll have it ready in just a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Take your time, Maeve. Once that's done, let's unlock the front doors and welcome our first customers."
+        ],
+        [
+          "Maeve Millay",
+          "The grinder is all set, Bernard. I'll go ahead and unlock the front doors now so we're ready to open."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciato": "☕🚶",
+      "description": "walking to Hobbs Cafe and preparing for the shift (walking along the sidewalk to Hobbs Cafe) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the coffee shop for the morning shift @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard! I'm ready to help get everything set up for the morning shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Excellent timing. Let's get the espresso machine warmed up and prep the counter for our morning rush."
+        ],
+        [
+          "Maeve Millay",
+          "Right on it, Bernard. I'll get the grinder calibrated and check the pastry case next."
+        ],
+        [
+          "Bernard Lowe",
+          "Sounds like a plan. Let me know if you need any help with the calibration before we open the doors."
+        ],
+        [
+          "Maeve Millay",
+          "Will do, Bernard. Everything is looking good so far, I'll have it ready in just a minute."
+        ],
+        [
+          "Bernard Lowe",
+          "Take your time, Maeve. Once that's done, let's unlock the front doors and welcome our first customers."
+        ],
+        [
+          "Maeve Millay",
+          "The grinder is all set, Bernard. I'll go ahead and unlock the front doors now so we're ready to open."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:19:10"
+  }
+}

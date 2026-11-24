@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕🔓",
+      "description": "opening Hobbs Cafe and beginning morning operations (unlocking the front door) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        126,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "walking together to start their work shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Are you all set for the shift? We should head over to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Yes, I just finished getting my jacket and shoes on. Let's head over to the cafe together."
+        ],
+        [
+          "Maeve Millay",
+          "Wonderful, let's get going so we arrive on time for our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Lead the way, let's go!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        125,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "walking together to start their work shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Are you all set for the shift? We should head over to Hobbs Cafe together."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Yes, I just finished getting my jacket and shoes on. Let's head over to the cafe together."
+        ],
+        [
+          "Maeve Millay",
+          "Wonderful, let's get going so we arrive on time for our shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Lead the way, let's go!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:02:50"
+  }
+}

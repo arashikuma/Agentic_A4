@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        16
+      ],
+      "pronunciato": "🌅",
+      "description": "waking up and completing the morning routine (stretching in bed) @ the Ville:Bernard Lowe's apartment:bathroom:bathroom sink",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "chatting about starting their morning shift together @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Ready for another shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yes, ready to get things started. We'll head over soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Indeed. I'll finish getting ready and we can walk over together."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        130,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "chatting about starting their morning shift together @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve. Ready for another shift at the cafe?"
+        ],
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Yes, ready to get things started. We'll head over soon."
+        ],
+        [
+          "Dolores Abernathy",
+          "Indeed. I'll finish getting ready and we can walk over together."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:06:40"
+  }
+}
