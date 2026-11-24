@@ -111,4 +111,4 @@ frontend_server/storage/base_cafe_spiral_*
 !frontend_server/storage/base_cafe_spiral_full
 simulation/*
 !simulation/base_cafe_spiral/
-__debug_bin*
+__debug_bin*ollama.tar.zst
