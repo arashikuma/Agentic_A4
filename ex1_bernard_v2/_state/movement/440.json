@@ -1,0 +1,116 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the cafe and reviewing opening duties for the morning shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just getting my apron on and getting ready to unlock the front door for the morning shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Make sure everything is prepped properly today; we need a strong start given how things have been going."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure everything is fully prepped and ready for our customers right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let's make sure the display case is fully stocked and the grinders are dialed in before the morning rush hits."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm right on it, Bernard. I'll get the display case stocked and check the grinders immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let me know as soon as that's done so we can review the opening checklist."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll let you know the moment the display case is stocked and the grinders are ready, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright. I'll be right over here going over the morning inventory numbers while you finish up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'm getting right to work on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Carry on then."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        24
+      ],
+      "pronunciato": "💬",
+      "description": "preparing the cafe and reviewing opening duties for the morning shift @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just getting my apron on and getting ready to unlock the front door for the morning shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Make sure everything is prepped properly today; we need a strong start given how things have been going."
+        ],
+        [
+          "Dolores Abernathy",
+          "I understand, Bernard. I'll make sure everything is fully prepped and ready for our customers right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let's make sure the display case is fully stocked and the grinders are dialed in before the morning rush hits."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm right on it, Bernard. I'll get the display case stocked and check the grinders immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let me know as soon as that's done so we can review the opening checklist."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll let you know the moment the display case is stocked and the grinders are ready, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Alright. I'll be right over here going over the morning inventory numbers while you finish up."
+        ],
+        [
+          "Dolores Abernathy",
+          "Understood, Bernard. I'm getting right to work on it."
+        ],
+        [
+          "Bernard Lowe",
+          "Carry on then."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        101,
+        47
+      ],
+      "pronunciato": "☕🚶",
+      "description": "walking to Hobbs Cafe and starting the shift (walking down the apartment hallway and exiting building) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:12:20"
+  }
+}

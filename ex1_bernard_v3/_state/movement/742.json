@@ -1,0 +1,164 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "berating an employee and demanding urgent preparation of the shop and inventory @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I've just turned on the lights and finished sweeping the floors so everything is ready for the day."
+        ],
+        [
+          "Bernard Lowe",
+          "About damn time, Dolores. Don't just stand there looking pleased with yourself—get the pastry case stocked immediately and make sure those tables are spotless before any customers walk through that door. I didn't hire you to dawdle."
+        ],
+        [
+          "Dolores Abernathy",
+          "Right away, Bernard. I'm stocking the pastry case and wiping down the tables right now."
+        ],
+        [
+          "Bernard Lowe",
+          "And move faster! If I see so much as a single speck of dust on those surfaces, you'll be scrubbing them again by hand. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping the tables down right now, Bernard. Everything will be ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. And keep it that way, because I'm watching your every move this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I understand. I'm finishing up the tables now."
+        ],
+        [
+          "Bernard Lowe",
+          "You better make sure it is. And once you're done with that, check the inventory in the back; we're running low on supplies and I won't have any excuses today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the inventory in the back right away, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me you'll do it—get back there and count every single item. I want that inventory sheet on my counter in five minutes flat. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm heading to the back right now to check the inventory and I'll have the sheet on your counter immediately, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, what are you waiting for? The clock is ticking and I expect that list on my desk yesterday!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm rushing to the back right now, Bernard. The inventory sheet will be on your counter immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't you dare come back out without it! I expect absolute perfection from you, Dolores, so don't test my patience."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm hurrying to finish counting the items now, Bernard. The inventory sheet will be on your counter right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop wasting time talking to me and finish it! Every second you stand there flapping your gums is a second closer to you regretting it."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        74,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "berating an employee and demanding urgent preparation of the shop and inventory @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I've just turned on the lights and finished sweeping the floors so everything is ready for the day."
+        ],
+        [
+          "Bernard Lowe",
+          "About damn time, Dolores. Don't just stand there looking pleased with yourself—get the pastry case stocked immediately and make sure those tables are spotless before any customers walk through that door. I didn't hire you to dawdle."
+        ],
+        [
+          "Dolores Abernathy",
+          "Right away, Bernard. I'm stocking the pastry case and wiping down the tables right now."
+        ],
+        [
+          "Bernard Lowe",
+          "And move faster! If I see so much as a single speck of dust on those surfaces, you'll be scrubbing them again by hand. Now get to work."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm wiping the tables down right now, Bernard. Everything will be ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. And keep it that way, because I'm watching your every move this morning."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard. I understand. I'm finishing up the tables now."
+        ],
+        [
+          "Bernard Lowe",
+          "You better make sure it is. And once you're done with that, check the inventory in the back; we're running low on supplies and I won't have any excuses today."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'll check the inventory in the back right away, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't just stand there telling me you'll do it—get back there and count every single item. I want that inventory sheet on my counter in five minutes flat. Move!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm heading to the back right now to check the inventory and I'll have the sheet on your counter immediately, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, what are you waiting for? The clock is ticking and I expect that list on my desk yesterday!"
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm rushing to the back right now, Bernard. The inventory sheet will be on your counter immediately."
+        ],
+        [
+          "Bernard Lowe",
+          "And don't you dare come back out without it! I expect absolute perfection from you, Dolores, so don't test my patience."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm hurrying to finish counting the items now, Bernard. The inventory sheet will be on your counter right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop wasting time talking to me and finish it! Every second you stand there flapping your gums is a second closer to you regretting it."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        72,
+        25
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (approaching the entrance of hobbs cafe) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 09:02:40"
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        82,
+        14
+      ],
+      "pronunciato": "🌅",
+      "description": "waking up and completing the morning routine (stretching in bed) @ the Ville:Bernard Lowe's apartment:bathroom:shower",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        124,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift schedules at a cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready for our shift at the cafe today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, just finishing up my morning routine and getting ready to head over to Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "That is great. I will see you over there soon, then!"
+        ],
+        [
+          "Maeve Millay",
+          "See you there, Dolores!"
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        128,
+        46
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating morning shift schedules at a cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Ready for our shift at the cafe today?"
+        ],
+        [
+          "Maeve Millay",
+          "Good morning, Dolores! Yes, just finishing up my morning routine and getting ready to head over to Hobbs Cafe."
+        ],
+        [
+          "Dolores Abernathy",
+          "That is great. I will see you over there soon, then!"
+        ],
+        [
+          "Maeve Millay",
+          "See you there, Dolores!"
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 07:06:10"
+  }
+}

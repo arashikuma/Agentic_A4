@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "acknowledging work instructions from a demanding supervisor before heading to their shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just heading over to the cafe now to get everything ready for our shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, don't just stand there flapping your gums, Dolores. Get a move on, the floors won't sweep themselves and I expect the place spotless before I even step foot inside."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard, I'm heading there right now to get everything ready."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciato": "💬",
+      "description": "acknowledging work instructions from a demanding supervisor before heading to their shift @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. I'm just heading over to the cafe now to get everything ready for our shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, don't just stand there flapping your gums, Dolores. Get a move on, the floors won't sweep themselves and I expect the place spotless before I even step foot inside."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, Bernard, I'm heading there right now to get everything ready."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        72,
+        23
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (exiting the building onto the sidewalk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:22:50"
+  }
+}

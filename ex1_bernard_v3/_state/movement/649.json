@@ -1,0 +1,148 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "managing a chaotic workplace through harsh orders and micromanagement @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Well, look who finally decided to drag their feet in. Get behind that counter immediately, Maeve, and don't just stand there gawking—we've got prep to do and I don't pay you to waste time."
+        ],
+        [
+          "Maeve Millay",
+          "Right away, Bernard. I'm heading in now."
+        ],
+        [
+          "Bernard Lowe",
+          "And stop dawdling in the doorway! Check the pastry case and make sure it's fully stocked before the morning rush starts, or you'll be hearing about it all day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm on it, Bernard. I'll get the pastry case stocked right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, don't just stand there telling me what you're going to do—actually do it! And make sure those tables are wiped down too while you're at it. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm heading over to wipe the tables and check the case right now, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "And try not to drop anything this time! Honestly, it's like babysitting around here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm being as careful as I can, Bernard. I'm handling the tables and the pastries right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Just get it done and stop talking back! I'll be inspecting your work shortly, so it better be spotless."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'm focusing on getting everything cleaned and stocked just like you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop wasting breath flapping your gums and use your hands for once! I want every single crumb gone and the display case overflowing before I turn around again, or you're going to regret it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm working as fast as I can, Bernard. Everything will be ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You better hope so, because I have zero tolerance for incompetence today. Now shut your trap and keep moving!"
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep working quietly, Bernard. Everything will be ready."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        19
+      ],
+      "pronunciato": "☕🦺",
+      "description": "walking to Hobbs Cafe and preparing for shift (putting on the work apron) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "managing a chaotic workplace through harsh orders and micromanagement @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Well, look who finally decided to drag their feet in. Get behind that counter immediately, Maeve, and don't just stand there gawking—we've got prep to do and I don't pay you to waste time."
+        ],
+        [
+          "Maeve Millay",
+          "Right away, Bernard. I'm heading in now."
+        ],
+        [
+          "Bernard Lowe",
+          "And stop dawdling in the doorway! Check the pastry case and make sure it's fully stocked before the morning rush starts, or you'll be hearing about it all day."
+        ],
+        [
+          "Maeve Millay",
+          "I'm on it, Bernard. I'll get the pastry case stocked right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Well, don't just stand there telling me what you're going to do—actually do it! And make sure those tables are wiped down too while you're at it. Move!"
+        ],
+        [
+          "Maeve Millay",
+          "I'm heading over to wipe the tables and check the case right now, Bernard."
+        ],
+        [
+          "Bernard Lowe",
+          "And try not to drop anything this time! Honestly, it's like babysitting around here."
+        ],
+        [
+          "Maeve Millay",
+          "I'm being as careful as I can, Bernard. I'm handling the tables and the pastries right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Just get it done and stop talking back! I'll be inspecting your work shortly, so it better be spotless."
+        ],
+        [
+          "Maeve Millay",
+          "I understand, Bernard. I'm focusing on getting everything cleaned and stocked just like you asked."
+        ],
+        [
+          "Bernard Lowe",
+          "Stop wasting breath flapping your gums and use your hands for once! I want every single crumb gone and the display case overflowing before I turn around again, or you're going to regret it."
+        ],
+        [
+          "Maeve Millay",
+          "I'm working as fast as I can, Bernard. Everything will be ready."
+        ],
+        [
+          "Bernard Lowe",
+          "You better hope so, because I have zero tolerance for incompetence today. Now shut your trap and keep moving!"
+        ],
+        [
+          "Maeve Millay",
+          "I'll keep working quietly, Bernard. Everything will be ready."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:47:10"
+  }
+}
