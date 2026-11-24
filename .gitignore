@@ -110,5 +110,5 @@ frontend_server/storage/base_cafe_spiral_*
 !frontend_server/storage/base_cafe_spiral
 !frontend_server/storage/base_cafe_spiral_full
 simulation/*
-# !simulation/base_cafe_spiral/
+!simulation/base_cafe_spiral/
 __debug_bin*
