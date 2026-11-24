@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening tasks for the cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Let's make sure we get to the cafe promptly so we can open up on time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Yes, I'm heading over right now to make sure everything is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll see you inside shortly."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening tasks for the cafe @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "Good morning, Dolores. Let's make sure we get to the cafe promptly so we can open up on time."
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Bernard. Yes, I'm heading over right now to make sure everything is ready."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll see you inside shortly."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        83,
+        37
+      ],
+      "pronunciato": "☕🚶",
+      "description": "walking to Hobbs Cafe and starting the shift (walking down the apartment hallway) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:15:50"
+  }
+}

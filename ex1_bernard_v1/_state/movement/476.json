@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking down the residential street) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "walking to the cafe together to open up @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Heading over to the cafe together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Yes, let's head over together so we can make sure everything is ready for opening."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, let's walk."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        29
+      ],
+      "pronunciato": "💬",
+      "description": "walking to the cafe together to open up @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Morning, Dolores! Heading over to the cafe together?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Good morning, Maeve! Yes, let's head over together so we can make sure everything is ready for opening."
+        ],
+        [
+          "Maeve Millay",
+          "Sounds good, let's walk."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:18:20"
+  }
+}

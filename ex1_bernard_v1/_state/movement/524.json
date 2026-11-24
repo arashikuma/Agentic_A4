@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and emphasizing punctuality for the morning shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just heading over to the cafe to get everything ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Make sure you're punctual today; we have a lot of prep to get through before the doors open at eight."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'm right behind you and will make sure everything is prepped and ready to go."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let's keep a brisk pace so we arrive with plenty of time to spare."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        79,
+        23
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (navigating the neighborhood sidewalk) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "coordinating opening preparations and emphasizing punctuality for the morning shift @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm just heading over to the cafe to get everything ready for opening."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning, Maeve. Make sure you're punctual today; we have a lot of prep to get through before the doors open at eight."
+        ],
+        [
+          "Maeve Millay",
+          "Understood, Bernard. I'm right behind you and will make sure everything is prepped and ready to go."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. Let's keep a brisk pace so we arrive with plenty of time to spare."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:26:20"
+  }
+}
