@@ -425,7 +425,7 @@ func (c *Client) GenerateReactionScheduleUpdate(p llm.Persona, inserted llm.Plan
 		}
 
 		for i := range out.Schedule {
-			if out.Schedule[i].DurationMinutes < 1 {
+			if i > 0 && out.Schedule[i].DurationMinutes < 1 {
 				return fmt.Errorf(
 					"the generated schedule has an invalid duration at index %d: %d — all durations must be at least 1 minute",
 					i, out.Schedule[i].DurationMinutes,
