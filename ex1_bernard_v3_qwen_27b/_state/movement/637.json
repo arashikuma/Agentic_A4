@@ -1,0 +1,92 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by a supervisor for arriving late and being ordered to start making coffee immediately @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "You're late, Dolores. I've been standing here for five minutes. Get in here and start making coffee before I fire you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I was just crossing the street and saw you. I'm ready to start right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't waste my time with excuses. Get behind that counter and start pulling shots. If I see you slacking, you're done."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm heading to the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "Move your ass, Dolores. I don't pay you to stand around looking at the wall. Get those machines running before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm getting the machines running right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. If that first cup isn't perfect, I'm docking your pay. Now get to work."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        75,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "being berated by a supervisor for arriving late and being ordered to start making coffee immediately @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Bernard Lowe",
+          "You're late, Dolores. I've been standing here for five minutes. Get in here and start making coffee before I fire you."
+        ],
+        [
+          "Dolores Abernathy",
+          "I'm so sorry, Mr. Lowe. I was just crossing the street and saw you. I'm ready to start right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't waste my time with excuses. Get behind that counter and start pulling shots. If I see you slacking, you're done."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm heading to the counter now."
+        ],
+        [
+          "Bernard Lowe",
+          "Move your ass, Dolores. I don't pay you to stand around looking at the wall. Get those machines running before the first customer walks in."
+        ],
+        [
+          "Dolores Abernathy",
+          "Yes, sir. I'm getting the machines running right now."
+        ],
+        [
+          "Bernard Lowe",
+          "Don't make me repeat myself. If that first cup isn't perfect, I'm docking your pay. Now get to work."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        66,
+        37
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking through the main park path) @ the Ville:Johnson Park:park:park garden",
+      "chat": null
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:45:10"
+  }
+}

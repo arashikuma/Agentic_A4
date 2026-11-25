@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        78,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "walking to Hobbs cafe and opening the cafe (walking past the park) @ the Ville:Hobbs Cafe:cafe:behind the cafe counter",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        119,
+        47
+      ],
+      "pronunciato": "💬",
+      "description": "confirming readiness and heading to the cafe for their shift @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm just heading to Hobbs Cafe for our shift. I hope you're ready to go."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores. Yes, I'm ready to go. I just finished getting ready and I'm on my way. Let's make sure we're both set for the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, let's head over. See you at the cafe."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        121,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "confirming readiness and heading to the cafe for their shift @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. I'm just heading to Hobbs Cafe for our shift. I hope you're ready to go."
+        ],
+        [
+          "Maeve Millay",
+          "Hi Dolores. Yes, I'm ready to go. I just finished getting ready and I'm on my way. Let's make sure we're both set for the shift."
+        ],
+        [
+          "Dolores Abernathy",
+          "Okay, let's head over. See you at the cafe."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:33:50"
+  }
+}

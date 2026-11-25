@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "☕",
+      "description": "walking to Hobbs cafe and opening the cafe (checking the coffee equipment) @ the Ville:Hobbs Cafe:cafe:cooking area",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        76,
+        21
+      ],
+      "pronunciato": "💬",
+      "description": "greeting each other and preparing to start work on the day's schedule @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! Glad to see you're here. I was just getting ready to head in. Did you see the schedule for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. Yes, I saw the schedule. Bernard was just telling us to get started right away, so I'm heading in to make sure the first coffee is perfect. Are you ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, I'm ready. Let's go in and get started."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        74,
+        23
+      ],
+      "pronunciato": "💬",
+      "description": "greeting each other and preparing to start work on the day's schedule @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hi Dolores! Glad to see you're here. I was just getting ready to head in. Did you see the schedule for today?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Hi Maeve. Yes, I saw the schedule. Bernard was just telling us to get started right away, so I'm heading in to make sure the first coffee is perfect. Are you ready to go?"
+        ],
+        [
+          "Maeve Millay",
+          "Yes, I'm ready. Let's go in and get started."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:56:50"
+  }
+}

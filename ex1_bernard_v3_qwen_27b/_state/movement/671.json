@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "starting a work shift after a routine greeting @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm here and ready to start my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning. I see you're here. I hope you're ready to start your shift. Let's get to work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm ready. I'll get started right away."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        80,
+        21
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking past local shops) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        76,
+        25
+      ],
+      "pronunciato": "💬",
+      "description": "starting a work shift after a routine greeting @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Mr. Lowe. I'm here and ready to start my shift."
+        ],
+        [
+          "Bernard Lowe",
+          "Good morning. I see you're here. I hope you're ready to start your shift. Let's get to work."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'm ready. I'll get started right away."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:50:50"
+  }
+}

@@ -1,0 +1,60 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        77,
+        14
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs cafe and opening the cafe (grabbing keys and wallet) @ the Ville:Bernard Lowe's apartment:main room:closet",
+      "chat": null
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        125,
+        54
+      ],
+      "pronunciato": "💬",
+      "description": "confirming readiness for a shift at Hobbs Cafe @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I saw you checking your schedule. I'm heading to Hobbs Cafe now. Are you ready for the shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm just checking my schedule. I'm ready. See you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, see you then."
+        ]
+      ]
+    },
+    "Maeve Millay": {
+      "movement": [
+        127,
+        50
+      ],
+      "pronunciato": "💬",
+      "description": "confirming readiness for a shift at Hobbs Cafe @ \u003cpersona\u003e Dolores Abernathy",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Hey Dolores, I saw you checking your schedule. I'm heading to Hobbs Cafe now. Are you ready for the shift?"
+        ],
+        [
+          "Dolores Abernathy",
+          "Yeah, I'm just checking my schedule. I'm ready. See you at the cafe."
+        ],
+        [
+          "Maeve Millay",
+          "Okay, see you then."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:11:30"
+  }
+}

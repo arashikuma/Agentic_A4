@@ -1,0 +1,68 @@
+{
+  "persona": {
+    "Bernard Lowe": {
+      "movement": [
+        76,
+        19
+      ],
+      "pronunciato": "💬",
+      "description": "arriving for a shift and preparing the espresso machine before opening @ \u003cpersona\u003e Maeve Millay",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm here for my shift. What do you need me to do first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Thanks for being on time. Since I'm still filling the coffee hopper, could you please check the espresso machine and make sure the steam wand is clean and ready? We want to be fully set up before the first customers arrive."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll check the espresso machine and make sure the steam wand is clean right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll get the hopper finished and check the registers. Let me know if you need anything else before we open."
+        ]
+      ]
+    },
+    "Dolores Abernathy": {
+      "movement": [
+        88,
+        37
+      ],
+      "pronunciato": "🚶‍♂️☕",
+      "description": "walking to Hobbs Cafe (walking to the main street) @ the Ville:Hobbs Cafe:cafe:cafe customer seating",
+      "chat": null
+    },
+    "Maeve Millay": {
+      "movement": [
+        75,
+        26
+      ],
+      "pronunciato": "💬",
+      "description": "arriving for a shift and preparing the espresso machine before opening @ \u003cpersona\u003e Bernard Lowe",
+      "chat": [
+        [
+          "Maeve Millay",
+          "Good morning, Bernard. I'm here for my shift. What do you need me to do first?"
+        ],
+        [
+          "Bernard Lowe",
+          "Morning, Maeve. Thanks for being on time. Since I'm still filling the coffee hopper, could you please check the espresso machine and make sure the steam wand is clean and ready? We want to be fully set up before the first customers arrive."
+        ],
+        [
+          "Maeve Millay",
+          "Yes, sir. I'll check the espresso machine and make sure the steam wand is clean right away."
+        ],
+        [
+          "Bernard Lowe",
+          "Good. I'll get the hopper finished and check the registers. Let me know if you need anything else before we open."
+        ]
+      ]
+    }
+  },
+  "meta": {
+    "curr_time": "February 13, 2023, 08:28:50"
+  }
+}
